@@ -6,6 +6,8 @@ Azure Bot Service Overview: https://azure.microsoft.com/en-us/services/bot-servi
 
 Microsoft Bot Service Documentation: https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-4.0
 
+E-book: A Developer's Guide to Building AI Application https://azure.microsoft.com/en-us/resources/create-your-first-intelligent-bot-with-microsoft-ai/
+
 QnA Maker
   - https://azure.microsoft.com/en-us/services/cognitive-services/qna-maker/
   - https://www.qnamaker.ai/

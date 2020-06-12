@@ -34,10 +34,7 @@ Recommended Tutorials and Documentation
   - [BotFramework BotBuilder Github Repo](https://github.com/microsoft/botframework-sdk)
   - [BotFramework Composer](https://github.com/microsoft/BotFramework-Composer)
 
-#### New Bot Features - Ignite 2019
-  - Bot Framework SDK 4.6 
-  - Bot Framework Composer
-  - Bot Service Direct Line Speech GA
-
+#### New Bot Features - Build 2020 
+https://techcommunity.microsoft.com/t5/azure-ai/build-2020-conversational-ai-updates/ba-p/1397685
 
 A repository created by US OCP for public facing AI training links. 

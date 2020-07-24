@@ -33,6 +33,8 @@ Recommended Tutorials and Documentation
   - [Bot Template Virtual Assistant](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-virtual-assistant-introduction?view=azure-bot-service-4.0 ) 
   - [BotFramework BotBuilder Github Repo](https://github.com/microsoft/botframework-sdk)
   - [BotFramework Composer](https://github.com/microsoft/BotFramework-Composer)
+  
+Bot with Azure Search https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/
 
 #### New Bot Features - Build 2020 
 https://techcommunity.microsoft.com/t5/azure-ai/build-2020-conversational-ai-updates/ba-p/1397685

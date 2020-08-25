@@ -42,6 +42,7 @@ Microsoft Heathcare Bot: https://azuremarketplace.microsoft.com/en-us/marketplac
 
 ## Workshops
 https://github.com/managedcoder/BotFrameworkAccelerators/tree/master/Workshop
+Build a conversational AI workshop: https://retailevents.microsoft.com/event/event-details?id=Build_a_Conversational_AI_Practice_today2449683138
 
 ## New Bot Features - Build 2020 
 https://techcommunity.microsoft.com/t5/azure-ai/build-2020-conversational-ai-updates/ba-p/1397685

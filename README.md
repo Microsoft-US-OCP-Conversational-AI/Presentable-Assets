@@ -40,6 +40,9 @@ Bot with Azure Search https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/
 Woodgrove Bank: http://contosobanking.azurewebsites.net/
 Microsoft Heathcare Bot: https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-hcb.microsofthealthcarebot
 
+## Workshops
+https://github.com/managedcoder/BotFrameworkAccelerators/tree/master/Workshop
+
 ## New Bot Features - Build 2020 
 https://techcommunity.microsoft.com/t5/azure-ai/build-2020-conversational-ai-updates/ba-p/1397685
 
